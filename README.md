@@ -38,7 +38,7 @@ LevelUp is an AI-powered **employability and upskilling platform** that helps wo
 
 ### **🌟 Core Features**
 #### 1️⃣ AI-Driven Skill Mapping 🎯
-✅ Users input their skills via **text or voice**.
+✅ Users input their skills via **text**.
 ✅ AI suggests **jobs, training programs, and entrepreneurial opportunities**.
 
 #### 2️⃣ Personalized Learning Paths 📚
