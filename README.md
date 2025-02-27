@@ -54,6 +54,10 @@ LevelUp is an AI-powered **employability and upskilling platform** that helps wo
 ---
 
 ## 🤖 Advanced AI & Tech Innovations
+## 🔄 Workflows
+<img src="Workflows/Overall Workflow.png" alt="Overall Workflow" width="100%">
+<img src="Workflows/Multi-Agent-workflow.png" alt="Multi-Agent Workflow" width="100%">
+
 ### **Multi-Agentic AI Systems**
 We built **five AI agents** to handle:
 - **User authentication** 🔑.
